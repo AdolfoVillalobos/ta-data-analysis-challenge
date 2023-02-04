@@ -1,9 +1,9 @@
-,default,education,0
-0,0,Graduate School,18
-1,0,High School,8
-2,0,Others,0
-3,0,University,10
-4,1,Graduate School,6
-5,1,High School,0
-6,1,Others,1
-7,1,University,6
+default,education,0
+0,Graduate School,18
+0,High School,8
+0,Others,0
+0,University,10
+1,Graduate School,6
+1,High School,0
+1,Others,1
+1,University,6

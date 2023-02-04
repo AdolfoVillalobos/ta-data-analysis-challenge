@@ -1,7 +1,7 @@
-,default,age_by_bin,0
-0,0,Gen Z,8
-1,0,Milenials,21
-2,0,Gen X,7
-3,1,Gen Z,4
-4,1,Milenials,8
-5,1,Gen X,1
+default,age_by_bin,0
+0,Gen Z,8
+0,Milenials,21
+0,Gen X,7
+1,Gen Z,4
+1,Milenials,8
+1,Gen X,1

@@ -1,7 +1,7 @@
-,default,marriage,0
-0,0,Married,9
-1,0,Single,26
-2,0,Others,1
-3,1,Married,3
-4,1,Single,10
-5,1,Others,0
+default,marriage,0
+0,Married,9
+0,Single,26
+0,Others,1
+1,Married,3
+1,Single,10
+1,Others,0
