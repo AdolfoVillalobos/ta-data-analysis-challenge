@@ -31,3 +31,7 @@ Opcionales:
 2- Proponer un pequeño plan de acción para mejorar las ganancias de la compañía.
 
 3- Generar un dashboard en Looker Studio (Data Studio)
+
+# Solución
+
+Se encuentra en `report.ipynb`. Utilizamos Python3.9 y poetry para manejar las dependencias. En casos de problemas de compatibilidad, notificar a amvillalobos@uc.cl para adjuntar una implementación en base a Docker.
